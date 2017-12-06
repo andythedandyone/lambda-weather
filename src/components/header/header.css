@@ -1,0 +1,16 @@
+.top-cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 20vw;
+    background-image: linear-gradient(rgba(255,255,255, 0.3), rgba(0,0,0,0.9), rgba(0,0,0,10)), url('../../images/background/lb.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.top__h1 {
+    color:   rgba(255,255,255, 10);
+    font-size: 8vw;
+}

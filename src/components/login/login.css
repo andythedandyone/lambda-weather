@@ -1,0 +1,28 @@
+.button {
+    width: 80px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    border: 0;
+}
+
+.field-input {
+    background-color: transparent;
+    border: 0;
+    color: white;
+    outline: 0;
+    border-bottom: solid 2px ;
+    width: 200px;
+}
+
+.wrapper {
+    margin-top: -40px;
+    padding-bottom: 30px;
+    background-color: transparent;
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    box-sizing: border-box;
+    padding-right: 40px;
+}
